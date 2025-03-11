@@ -1,6 +1,6 @@
 **** UML-Diagramm Link
 Das UML-Diagramm ist unter folgendem Link verfügbar:  
-![UML Diagramm]()
+![UML Diagramm](https://git.informatik.uni-rostock.de/softwaretechnik-ws-2024-25/uebung2/team1/projekt-team1-uebung2/-/blob/main/docs/uml-diagram.png/uml-diagram.png.jpg?ref_type=heads)
 
 
 **** Tracing-Dokumentation
