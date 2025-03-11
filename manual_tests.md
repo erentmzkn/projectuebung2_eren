@@ -24,6 +24,11 @@ Manuelle Tests für das Benutzerverwaltungssystem
 - b)Ziel des Tests:Überprüfung, ob die Benutzerrolle korrekt gesetzt wird und Admin-Privilegien entsprechend funktionieren.
 - c)Testergebnis: Fehlgeschlagen
 
+- a)Rolle des Testausführenden Person : Teammitglied
+- b)Ziel des Tests: Überprüfung, ob das Passwort korrekt gehasht wird und sicher gespeichert wird.
+- c)Testergebnis: Fehlgeschlagen
+
+
 
 
 
