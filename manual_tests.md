@@ -1,7 +1,7 @@
 Manuelle Tests für das Benutzerverwaltungssystem
 
-a)Rolle des Testausführenden Person : Teammitglied
-b)Ziel des Tests:Registrierung mit einer bereits existierenden E-Mail sollte eine Fehlermeldung auslösen: "Diese E-Mail ist bereits registriert."
+- a)Rolle des Testausführenden Person : Teammitglied
+- b)Ziel des Tests:Registrierung mit einer bereits existierenden E-Mail sollte eine Fehlermeldung auslösen: "Diese E-Mail ist bereits registriert."
 c)Testergebnis: Erfolgreich
 
 a)Rolle des Testausführenden Person : Teammitglied
