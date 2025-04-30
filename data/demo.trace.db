@@ -2420,3 +2420,12 @@ Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: The connection wa
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
 	... 16 more
+2025-04-30 15:53:15 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]EMAIL"; expected "EXPLAIN, EXECUTE"; SQL statement:
+EMAIL [42001-214]
+2025-04-30 15:53:16 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]EMAIL"; expected "EXPLAIN, EXECUTE"; SQL statement:
+EMAIL [42001-214]
+2025-04-30 15:53:17 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]EMAIL"; expected "EXPLAIN, EXECUTE"; SQL statement:
+EMAIL [42001-214]
