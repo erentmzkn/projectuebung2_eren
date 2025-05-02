@@ -12,7 +12,7 @@ Diese Tabelle zeigt die Verbindung zwischen UML-Diagramm und Code-Implementierun
 
 ---
 
-## UML-Klassen und ihre Implementierung im Code:
+## UML-Klassen und Implementierung im Code:
 
 | UML-Klasse              | Code-Klasse                                                    | GitLab-Link                |
 |-------------------------|----------------------------------------------------------------|----------------------------|
@@ -40,7 +40,7 @@ Diese Tabelle zeigt die Verbindung zwischen UML-Diagramm und Code-Implementierun
 
 ---
 
-## UML-Interfaces und ihre Implementierung im Code:
+## UML-Interfaces und Implementierung im Code:
 
 | UML-Interface           | Code-Interface                                                 | GitLab-Link                |
 |-------------------------|----------------------------------------------------------------|----------------------------|
